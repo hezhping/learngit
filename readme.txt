@@ -4,5 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git is a good software.
 Git can control version remote.ha ha !
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
 
